@@ -1,0 +1,9 @@
+[submodule "Twitter-Sentiment-Analysis-for-Airlines"]
+	path = Twitter-Sentiment-Analysis-for-Airlines
+	url = https://github.com/sudhanshusinghaiml/Twitter-Sentiment-Analysis-for-Airlines.git
+[submodule "fake-news-classification-using-deeplearning"]
+	path = fake-news-classification-using-deeplearning
+	url = https://github.com/sudhanshusinghaiml/fake-news-classification-using-deeplearning.git
+[submodule "nlp-text-processing-and-classification-model"]
+	path = nlp-text-processing-and-classification-model
+	url = https://github.com/sudhanshusinghaiml/nlp-text-processing-and-classification-model.git
