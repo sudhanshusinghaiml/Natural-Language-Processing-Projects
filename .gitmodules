@@ -7,3 +7,6 @@
 [submodule "nlp-text-processing-and-classification-model"]
 	path = nlp-text-processing-and-classification-model
 	url = https://github.com/sudhanshusinghaiml/nlp-text-processing-and-classification-model.git
+[submodule "NLP-Hate-Speech-Classification-using-LSTM"]
+	path = NLP-Hate-Speech-Classification-using-LSTM
+	url = https://github.com/sudhanshusinghaiml/NLP-Hate-Speech-Classification-using-LSTM.git
