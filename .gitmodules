@@ -10,3 +10,6 @@
 [submodule "NLP-Hate-Speech-Classification-using-LSTM"]
 	path = NLP-Hate-Speech-Classification-using-LSTM
 	url = https://github.com/sudhanshusinghaiml/NLP-Hate-Speech-Classification-using-LSTM.git
+[submodule "Text-Summarization-using-transformers"]
+	path = Text-Summarization-using-transformers
+	url = https://github.com/sudhanshusinghaiml/Text-Summarization-using-transformers.git
