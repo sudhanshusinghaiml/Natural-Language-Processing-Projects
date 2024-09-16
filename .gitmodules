@@ -13,3 +13,6 @@
 [submodule "Text-Summarization-using-transformers"]
 	path = Text-Summarization-using-transformers
 	url = https://github.com/sudhanshusinghaiml/Text-Summarization-using-transformers.git
+[submodule "NLP-Name-Entity-Recognition"]
+	path = NLP-Name-Entity-Recognition
+	url = https://github.com/sudhanshusinghaiml/NLP-Name-Entity-Recognition.git
